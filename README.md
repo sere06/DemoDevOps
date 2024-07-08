@@ -1,4 +1,4 @@
 # DemoDevOps
-it's a <b>DEVOPS</b>
+it's a DEVOPS
 <br>
-New Journey started
+New Journey started with Devops
